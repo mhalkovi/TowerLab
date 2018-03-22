@@ -5,3 +5,7 @@
   tasks:
   - name: ping the devices
     action: ping
+
+  tasks:
+  - name: setup the devices
+    action: setup
