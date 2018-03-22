@@ -1,0 +1,7 @@
+---
+- name: ping web inventory
+  hosts: all
+
+  tasks:
+  - name: ping the devices
+    action: ping
