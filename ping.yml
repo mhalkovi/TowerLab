@@ -1,5 +1,5 @@
 ---
-- name: ping web inventory
+- name: ping Dev inventory
   hosts: all
 
   tasks:
